@@ -1,0 +1,8 @@
+
+
+USE master;
+GO
+DROP DATABASE PatientDB;
+GO
+CREATE DATABASE PatientDB;
+GO
